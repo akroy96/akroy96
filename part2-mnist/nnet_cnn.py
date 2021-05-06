@@ -18,7 +18,7 @@ def main():
     num_classes = 10
     X_train, y_train, X_test, y_test = get_MNIST_data()
 
-    # We need to rehape the data back into a 1x28x28 image
+    # We need to reshape the data back into a 1x28x28 image
     X_train = np.reshape(X_train, (X_train.shape[0], 1, 28, 28))
     X_test = np.reshape(X_test, (X_test.shape[0], 1, 28, 28))
 

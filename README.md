@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @akroy96
-- Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
-- 👀 I’m interested in software development for real world impactful applications.
-- 🌱 I’m currently learning data science,deep learning.I am also currently learning full stack development and using data structures for efficiently use algorithms for some specific problems.
--✅ My current skills -
+Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
+👀 I’m interested in software development for real world impactful applications.
+🌱 I’m currently learning data science,deep learning.I am also currently learning full stack development and using data structures for efficiently use algorithms for some specific problems.
+
+✅ My current skills -
 
 0️⃣GENERAL PROGRAMMING
 C++,Java,Javascript,SQL,R,Python,

@@ -128,7 +128,7 @@ def principal_components(centered_data):
     return eigen_vectors
 
 
-###Correction note:  Differing from the release, this function takes an extra input feature_means.
+
 
 def plot_PC(X, pcs, labels, feature_means):
     """
@@ -149,7 +149,6 @@ def plot_PC(X, pcs, labels, feature_means):
     plt.show()
 
 
-###Correction note:  Differing from the release, this function takes an extra input feature_means.
 
 def reconstruct_PC(x_pca, pcs, n_components, X, feature_means):
     """

@@ -1,3 +1,6 @@
+${your.username}.${your.repo.id}
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 - 👋 Hi, I’m @akroy96
 Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 👀 I’m interested in software development for real world impactful applications.

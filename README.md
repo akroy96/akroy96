@@ -1,4 +1,4 @@
-${your.username}.${your.repo.id}
+<!-- ${akroy96}.${your.repo.id} -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 - 👋 Hi, I’m @akroy96

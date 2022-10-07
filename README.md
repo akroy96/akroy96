@@ -10,7 +10,7 @@ A developer from India, based in Rourkela
 
 ## About Me
 
-- 🌱 I’m currently learning [![Java]([https://img.shields.io/badge/-Java-005571?style=for-the-badge&logo=Java&logoColor=ffffff)](https://www.java.com/en])
+- 🌱 I’m currently learning https://img.shields.io/badge/Java-I%20am%20learning%20Java-green
 
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:akashkumarroy1096@gmail.com) 

@@ -7,6 +7,7 @@
 # Hi, I'm akroy96
 
 A developer from India, based in Rourkela
+Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 
 ## About Me
 
@@ -51,7 +52,7 @@ A developer from India, based in Rourkela
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
 
-**🐱 My GitHub Data** 
+<!-- **🐱 My GitHub Data** 
 
 > 🏆 6 Contributions in the Year 2022
  > 
@@ -62,7 +63,7 @@ A developer from India, based in Rourkela
 > 📜 51 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
- > 
+ >  -->
 **I'm an Early 🐤** 
 
 ```text
@@ -135,14 +136,14 @@ Here are some ideas to get you started:
 -->
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akroy96&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <!-- START_SECTION:waka
 END_SECTION:waka -->
 
 <!-- - 👋 Hi, I’m @akroy96 -->
-Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
+
 <!-- 👀 I’m interested in software development for real world impactful applications.
 🌱 I’m currently learning data science,deep learning.I am also currently learning full stack development and data structures for efficient use algorithms for my problems. -->
 

@@ -10,7 +10,7 @@ A developer from India, based in Rourkela
 
 ## About Me
 
-- 🌱 I’m currently learning [![Java]([https://img.shields.io/badge/-Java-005571?style=for-the-badge&logo=Java&logoColor=ffffff)](https://www.java.com/en](https://img.shields.io/badge/Java-I%20am%20learning%20Java-orange)/)
+- 🌱 I’m currently learning [![Java]([https://img.shields.io/badge/-Java-005571?style=for-the-badge&logo=Java&logoColor=ffffff)](https://www.java.com/en])
 
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:akashkumarroy1096@gmail.com) 
@@ -18,14 +18,14 @@ A developer from India, based in Rourkela
 ## Operating System & Tools
 
 [![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
-[![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+
 
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 ## Technology Stack
 
-[![Java](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.java.com/en/)
+[![Java](https://img.shields.io/badge/-Java-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
@@ -105,7 +105,7 @@ Mac                      6 hrs 32 mins       ███████████�
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Java and Python** 
 
 ```text
 Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
@@ -142,10 +142,10 @@ Here are some ideas to get you started:
 <!-- START_SECTION:waka
 END_SECTION:waka -->
 
-- 👋 Hi, I’m @akroy96
+<!-- - 👋 Hi, I’m @akroy96 -->
 Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 👀 I’m interested in software development for real world impactful applications.
-🌱 I’m currently learning data science,deep learning.I am also currently learning full stack development and using data structures for efficiently use algorithms for some specific problems.
+🌱 I’m currently learning data science,deep learning.I am also currently learning full stack development and data structures for efficient use algorithms for my problems.
 
 ✅ My current skills -
 

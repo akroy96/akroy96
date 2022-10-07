@@ -10,7 +10,7 @@ A developer from India, based in Rourkela
 
 ## About Me
 
-- 🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
+- 🌱 I’m currently learning [![Java](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)](https://www.java.com/en/)
 
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:akashkumarroy1096@gmail.com) 
@@ -25,6 +25,7 @@ A developer from India, based in Rourkela
 
 ## Technology Stack
 
+[![Java](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
@@ -35,11 +36,8 @@ A developer from India, based in Rourkela
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
-[![influxDB](https://img.shields.io/badge/-influxDB-22ADF6?style=flat-square&logo=influxDB&logoColor=ffffff)](https://www.influxdata.com/)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
 
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
-[![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Apache%20kafka&logoColor=ffffff)](https://kafka.apache.org/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
@@ -47,7 +45,7 @@ A developer from India, based in Rourkela
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=akroy96&show_icons=true&theme=dracula" alt="akroy96" /></p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C158%20hrs%2021%20mins-blue)
@@ -123,7 +121,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akroy96/akroy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -143,6 +141,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akroy96&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <!-- START_SECTION:waka
 END_SECTION:waka -->
+
 - 👋 Hi, I’m @akroy96
 Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 👀 I’m interested in software development for real world impactful applications.

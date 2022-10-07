@@ -173,3 +173,7 @@ IntelliJIDEA,Pycharm
 [![Stargazers over time](https://starchart.cc/anmol098/waka-readme-stats.svg)](https://starchart.cc/anmol098/waka-readme-stats)
 
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/anmol098/waka-readme-stats.svg)](https://starchart.cc/akroy96/waka-readme-stats)
+

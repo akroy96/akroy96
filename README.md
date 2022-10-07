@@ -2,7 +2,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akroy96&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 - 👋 Hi, I’m @akroy96
 Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 👀 I’m interested in software development for real world impactful applications.

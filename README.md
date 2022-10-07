@@ -168,12 +168,10 @@ IntelliJIDEA,Pycharm
 - - 💞️ I’m looking to collaborate on personal or fun software development projects .Also I am open to remote jobs relating to software development,machine learning and web development projects.
 - 📫 How to reach me ➡️akashkumarroy1096@gmail.com -->
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/anmol098/waka-readme-stats.svg)](https://starchart.cc/anmol098/waka-readme-stats)
 
 
-## Stargazers over time
+
+<!-- ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/anmol098/waka-readme-stats.svg)](https://starchart.cc/akroy96/waka-readme-stats)
-
+ -->

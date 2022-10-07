@@ -10,8 +10,7 @@ A developer from India, based in Rourkela
 
 ## About Me
 
-- 🌱 I’m currently learning [(https://img.shields.io/badge/Java-I%20am%20learning%20Java-green)]
-
+- 🌱 I’m currently learning data science,deep learning.I am also currently learning full stack development and data structures for efficient use algorithms for my problems.
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:akashkumarroy1096@gmail.com) 
 
@@ -144,10 +143,10 @@ END_SECTION:waka -->
 
 <!-- - 👋 Hi, I’m @akroy96 -->
 Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
-👀 I’m interested in software development for real world impactful applications.
-🌱 I’m currently learning data science,deep learning.I am also currently learning full stack development and data structures for efficient use algorithms for my problems.
+<!-- 👀 I’m interested in software development for real world impactful applications.
+🌱 I’m currently learning data science,deep learning.I am also currently learning full stack development and data structures for efficient use algorithms for my problems. -->
 
-✅ My current skills -
+<!-- ✅ My current skills -
 
 0️⃣GENERAL PROGRAMMING
 C++,Java,Javascript,SQL,R,Python,
@@ -166,7 +165,7 @@ colab,SpyderIDE,Rstudio,Anaconda,
 IntelliJIDEA,Pycharm
 
 - - 💞️ I’m looking to collaborate on personal or fun software development projects .Also I am open to remote jobs relating to software development,machine learning and web development projects.
-- 📫 How to reach me ➡️akashkumarroy1096@gmail.com
+- 📫 How to reach me ➡️akashkumarroy1096@gmail.com -->
 
 ## Stargazers over time
 

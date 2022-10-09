@@ -6,12 +6,12 @@
 
 # Hi, I'm akroy96
 
-A developer from India, based in Rourkela
+A budding software developer from India, based in Rourkela
 Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 
 ## About Me
 
-- 🌱 I’m currently learning data science,deep learning.I am also currently learning full stack development and data structures for efficient use algorithms for my problems.
+- 🌱 I’m currently learning data science,deep learning,full stack development and data structures for efficient use algorithms for my problems.
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:akashkumarroy1096@gmail.com) 
 

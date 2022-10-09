@@ -15,6 +15,11 @@ Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:akashkumarroy1096@gmail.com) 
 
+0️⃣GENERAL PROGRAMMING
+C++,Java,Javascript,SQL,R,Python,
+HTML5,CSS3,Bootstrap
+
+
 ## Operating System & Tools
 
 [![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
@@ -38,21 +43,9 @@ Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 
-## Stats
+- - 💞️ I’m looking to collaborate on personal or fun software development projects .Also I am open to remote jobs relating to software development,machine learning and web development projects.
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=akroy96&show_icons=true&theme=dracula" alt="akroy96" /></p>
 
-<!--START_SECTION:waka-->
-
-```text
-Java     1 hr 13 mins    █████████████████████▒░░░   85.71 %
-Python   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-C++      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--
 **akroy96/akroy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,13 +61,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akroy96&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  -->
-<!-- START_SECTION:waka
-END_SECTION:waka -->
 
 <!-- - 👋 Hi, I’m @akroy96 -->
 

@@ -45,7 +45,11 @@ Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java     1 hr 13 mins    █████████████████████▒░░░   85.71 %
+Python   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+C++      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

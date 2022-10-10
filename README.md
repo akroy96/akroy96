@@ -19,6 +19,8 @@ Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 -C++,Java,Javascript,SQL,R,Python, 🧑‍💻
 -HTML5,CSS3,Bootstrap 🕸
 
+My twitter: https://twitter.com/royphix 
+My linkedin: https://www.linkedin.com/in/akash-kumar-roy-2b36a2163/
 
 ## Operating System & Tools
 

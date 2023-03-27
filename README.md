@@ -16,7 +16,7 @@ Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:akashkumarroy1096@gmail.com) 
 
 -GENERAL PROGRAMMING💻
--C++,Java,Javascript,SQL,R,Python, 🧑‍💻
+-C++,Java,SQL,R,Python, 🧑‍💻
 -HTML5,CSS3,Bootstrap 🕸
 
 My twitter: https://twitter.com/royphix 

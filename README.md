@@ -1,13 +1,9 @@
 
-
-# Visitors
-
-[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
-
 # Hi, I'm akroy96
 
-A budding software developer from India, based in Rourkela
-Currently I am doing M.Tech in Signal and Image Processing at NIT Rourkela.
+A Data Science nerd from India, based in Rourkela
+Currently I work as a Data Analyst at Vodafone.
+I have completed M.Tech in Signal and Image Processing at NIT Rourkela.
 
 ## About Me
 
